@@ -1,3 +1,5 @@
+### ex)
+
 ```java
 public class Example2 {
     public static void main(String[] args){        
@@ -25,7 +27,7 @@ public class Example2 {
 }
 ```
 
-
+### ex2)
 
 ```java
 package com.example;
