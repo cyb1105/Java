@@ -1,4 +1,4 @@
-### ex)
+### ex1)
 
 ```java
 public class Example2 {
@@ -13,7 +13,7 @@ public class Example2 {
             a++;
             System.out.println(a + "=" + i);
 
-            String name = "홍길동";
+            String name = "java";
             List list1 = new ArrayList();
             Collection list2 = new ArrayList();
 
