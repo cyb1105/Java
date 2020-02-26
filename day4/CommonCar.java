@@ -5,7 +5,7 @@ public abstract class CommonCar {
     protected String carName;
     protected Engine engine;
      public CommonCar() {
-         this.brandName = "현대자동차(Hyundai)";
+         this.brandName = "기아자동차";
          this.engine = new Engine();
      }
     public abstract void displayInfo();

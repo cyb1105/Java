@@ -10,6 +10,6 @@ public class Car extends CommonCar {
 
     @Override
     public void displayInfo() {
-        System.out.printf("%s, %s(도어수:%s)\n", brandName, carName, doorCount);
+        System.out.printf("%s, %s(문의 수:%s)\n", brandName, carName, doorCount);
     }
 }
